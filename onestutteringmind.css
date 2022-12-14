@@ -82,6 +82,8 @@
     .page-reference[data-ref^="Projects"] {color: #4e89a8 !important;  padding: 2px 5px 2px 5px;  font-size: 0.9rem;  line-height: 1em;  font-weight: 500;   border-radius: 5px 5px 5px 5px;  border-style: solid;  border-color: #4e89a8;  border-width: thin;  position:relative;  box-shadow: 1px 1px 3px  #DFDFDF}
     .page-reference[data-ref^="Projects"] .bracket { display: none}
 
+    .page-reference[data-ref^="Work"] {color: #4e89a8 !important;  padding: 2px 5px 2px 5px;  font-size: 0.9rem;  line-height: 1em;  font-weight: 500;   border-radius: 5px 5px 5px 5px;  border-style: solid;  border-color: #0339b6;  border-width: thin;  position:relative;  box-shadow: 1px 1px 3px  #DFDFDF}
+    .page-reference[data-ref^="Work"] .bracket { display: none}
 
 /* Button like tags for broad themes */
 
